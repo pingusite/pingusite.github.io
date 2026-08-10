@@ -5,5 +5,3 @@ document.write("<a href='https://web.archive.org/web/20140530140856/http://www.h
 document.write("<a href='https://web.archive.org/web/20140530140856/http://www.hitentertainment.com/terms' target='_blank'>Terms and Conditions</a><br>");
 document.write("<BR><span style='font-color:#000000;font-size:xx-small;font-family:Arial, sans serif, helvetica;'>HIT Entertainment Limited Registered in England No: 2341947 Registered Office: Maple House, 149 Tottenham Court Road, London W1T 7NF United Kingdom.<BR><BR></span>");
 document.write("</FONT></td><td align='right' width='109'></td></tr></table>");
-
-}
