@@ -2,7 +2,7 @@
 
 /* generic styling */
 
-body { background: url(i/bg.gif); }
+body { background: url(/uk/i/bg.gif); }
 
 div#screen-switcher { font-size: 0.6em; margin-bottom: 5px; text-align: right; }
 div#screen-switcher select#select-screen-switcher { font-size: 1em; }
