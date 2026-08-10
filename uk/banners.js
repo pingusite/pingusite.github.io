@@ -7,7 +7,7 @@ output = "<br/><div align='center'>";
 if ( isFlash[n] ) {
 	output += "<OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'";
 	output += " codebase='https://web.archive.org/web/20140924172823/http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0' WIDTH='468' HEIGHT='60'><PARAM NAME=wmode VALUE=transparent><PARAM NAME=movie VALUE='" + bannerImage[n];
-	output += "'><PARAM NAME=quality VALUE=high> <EMBED base='https://web.archive.org/web/20140924172823/http://www.hitentertainment.com/banners/uk/' src='" + bannerImage[n];
+	output += "'><PARAM NAME=quality VALUE=high> <EMBED base='https://hit-entertainment.github.io/banners/uk/' src='" + bannerImage[n];
 	output += "' quality=high WIDTH='468' HEIGHT='60' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http:/";
 	output += "/www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED></OBJECT>";
 //	document.write(output);
