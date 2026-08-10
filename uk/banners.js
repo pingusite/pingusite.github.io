@@ -26,6 +26,3 @@ topAd.innerHTML = '<a target="_blank" href="https://web.archive.org/web/20140924
 
 var rightAd = document.getElementById('rightAd');
 rightAd.innerHTML = '<a target="_blank" href="https://web.archive.org/web/20140924172823im_/https://itunes.apple.com/uk/app/mike-knight-storybook-treasury/id799104830?mt=8"><img src="assets/ads/MTK_StoryboookTreasury_160X600_R1.jpg" width="160" height="600" alt="" border="0"></a>';
- 
-
-}
