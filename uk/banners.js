@@ -1,4 +1,4 @@
-/*var bannerImage = new Array('https://web.archive.org/web/20140924172823im_/http://www.hitentertainment.com/banners/uk/hopfarmbanner.jpg');
+/*var bannerImage = new Array('https://hit-entertainment.github.io/banners/uk/hopfarmbanner.jpg');
 var bannerLink = new Array( 'https://web.archive.org/web/20140924172823/http://www.hitentertainment.com/hopfarm/');
 var isFlash = new Array(0,1,0);
 var numBanners = 1;
