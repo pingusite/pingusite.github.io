@@ -3,7 +3,7 @@ country = new Array("UK", "USA", "Deutschland", "Schwiez", "France");
 url = new Array("uk", "us", "de", "ch", "fr");
 output = '<table cellpadding="4" cellspacing="0"><tr>';
 for ( i = 0; i < flag.length; i++ ) {
-	output += '<td><a href="https://pingusite.github.io' + url[i] + '"><img src="https://web.archive.org/web/20131215040621/http://www.hitentertainment.com/flags/flag' + flag[i] + '.gif" border="0" alt="'+country[i]+'" title="'+country[i]+'"/></a></td>';
+	output += '<td><a href="https://pingusite.github.io/' + url[i] + '"><img src="https://web.archive.org/web/20131215040621/http://www.hitentertainment.com/flags/flag' + flag[i] + '.gif" border="0" alt="'+country[i]+'" title="'+country[i]+'"/></a></td>';
 }
 output += '	</tr></table>';
 document.write(output);
